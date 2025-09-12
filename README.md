@@ -7,7 +7,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Categories
 - [API Security](topics/api-security)
-  - [Protecting APIs](topics/api-security/protecting-apis.md)
+  - [How to protect an API](topics/api-security/protecting-apis.md)
   - [Rate Limiting](topics/api-security/rate-limiting.md)
 - [Deployment](topics/deployment)
   - [Deploy to NuGet](topics/deployment/deploy-to-nuget.md)
