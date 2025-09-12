@@ -61,34 +61,7 @@ Regularly review your API security. Check for:
 A security audit ensures your API stays safe as it grows and changes.
 
 ## Visual Summary
-
-   ┌──────────────┐
-   │  Client/API  │
-   └─────┬────────┘
-         │ HTTPS
-         ▼
-   ┌──────────────┐
-   │   Firewall   │
-   │ Rate Limit   │
-   │ Throttling   │
-   └─────┬────────┘
-         │ Auth
-         ▼
-   ┌────────────────┐
-   │ Authentication │
-   │  (JWT/OAuth2)  │
-   └─────┬──────────┘
-         │ Authorization
-         ▼
-   ┌──────────────────┐
-   │ Input Validation │
-   │ Logging & Audit  │
-   └─────┬────────────┘
-         │
-         ▼
-   ┌──────────────┐
-   │    API Logic │
-   └──────────────┘
+<img width="1024" height="1536" alt="api-security" src="https://github.com/user-attachments/assets/d2fa7a43-f931-49be-9dd1-d0b4c446d47b" />
 
 
 ## API Security Cheat Sheet
