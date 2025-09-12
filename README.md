@@ -1,4 +1,4 @@
-# TIL (Today I Learned)
+## Today I Learned - TIL
 
 A collection of things I learn throughout my career as a developer.  
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
