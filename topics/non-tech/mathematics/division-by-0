@@ -1,0 +1,33 @@
+## Is it possible to divide by 0 ?
+### YES!
+
+In standard mathematics, division by zero is undefined, but there *are* some *non-standard branches or extensions of mathematics* where people have found ways to work with division by zero. 
+
+### Standard Mathematics: Division by Zero Is *Undefined*
+
+In arithmetic and algebra:
+
+* Expressions like 1 / 0 or x / 0 are undefined.
+* This is because no number multiplied by 0 can produce a nonzero number.
+
+
+### Non-Standard Approaches
+
+#### Projective Geometry
+
+* In the *projective extended real line*, mathematicians add a "point at infinity."
+* Division by zero isn't directly defined, but you can approach ideas like:
+
+  * 1 / 0 → ∞, and 1 / ∞ → 0
+* However, it's *not arithmetic* as usual; it's more about limits and topology.
+
+#### 2. *Riemann Sphere (Complex Analysis)*
+
+* The complex plane is extended by adding a point at infinity.
+* In this setting:
+
+  * 1 / 0 = ∞, and 1 / ∞ = 0
+* But: 0 / 0 is still undefined.
+
+
+So yes, *there are branches* of math where division by zero is possible but not within traditional arithmetic or algebra.
